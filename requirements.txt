@@ -1,0 +1,12 @@
+Django
+django-environ
+django-filter
+django-rest-passwordreset
+djangorestframework
+psycopg2-binary
+PyYAML
+requests
+ujson
+urllib3
+python-dotenv
+
